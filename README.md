@@ -1,6 +1,6 @@
 # Predictive Modeling for Human Behavior Analysis
 
-**[STATUS: Part 1 - Exploratory Data Analysis Complete]**
+**[STATUS:Complete]**
 
 ---
 
